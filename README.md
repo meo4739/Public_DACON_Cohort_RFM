@@ -70,7 +70,7 @@ VIP 군집의 성별에 따른 프로모션 전략
 - 남성의 경우 'Bottles', 'Fun', 'Headgear' 상품을 위주로 프로모션 진행
 - 여성의 경우 'Google', 'More bags', 'Gift Cards' 위주로 프로모션 진행
 - 성별에 관계 없이 'Nest', 'Notebooks & Journals'의 프로모션은 지속적으로 진행
-### 4. 월 별 구입 내역에 따른 프로모션 전략
+#### 4. 월 별 구입 내역에 따른 프로모션 전략
 - 지속적으로 'Apparels', 'Nest', 'Office'는 상위권임 -> 지속적인 프로모션 진행
 - 다만, 겨울에 'Nest' 수요가 높아지는 것을 봐서 겨울 시즌에 Nest 프로모션 진행 추진
 - 학기 시작 전인 7,8월에 'notebook & journal' 수요 증가 -> 신학기 프로모션 진행
