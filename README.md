@@ -43,7 +43,8 @@ https://dacon.io/competitions/official/236222/overview/description
 - [고객 숫자], [거래 횟수], [소비 금액] : 낮다
 
 ## 솔루션 제안
-  1. 지역별 전략
+
+#### 1. 지역별 전략
 Ÿ 충성 고객 대상 프로모션 행사 지역 : "California", "Chicago", 'Washington DC'
 Ÿ 신규 고객 대상 프로모션 행사 지역 : "Washington DC", "New Jersy“
 1. 지역별 고객이 많은 California, Chicago, Newyork에 전광판 등 오프라인 마케팅 집중하여 고객에게
@@ -53,14 +54,16 @@ https://dacon.io/competitions/official/236222/overview/description
 Ÿ 제품 카테고리
 - Apparel, Nest-USA, Office, Nest에 대한 거래금액이 크므로 이를 고려할 필요 있음.
 ※ New Jersey 남성의 경우 다른 지역과 달리 Office에 대한 선호도가 Nest보다 높음.
-2. 장바구니 분석 기반 전략
+
+#### 2. 장바구니 분석 기반 전략
 • 상품을 배치하거나 프로모션을 기획할 때 관련성 높게 나온 제품들을 함께 추천하거나 패키지로 묶어 판
 매하는 전략.
 • LifeStyle 카테고리에서 함께 구매한 상품의 연관성이 높은 것으로 나타남
 • LifeStyle 카테고리에서 연관 상품을 묶어서 추천하는 전략 추진
 • (예를 들어, 제품 0917과 0915는 함께 묶어 할인을 제공하거나, 함께 구매를 유도하는 마케팅 캠페인을
 진행)
-3. 선호도 기반의 전략
+
+#### 3. 선호도 기반의 전략
 VIP 군집의 성별에 따른 프로모션 전략
 l 남성의 경우 'Bottles', 'Fun', 'Headgear' 상품을 위주로 프로모션 진행
 l 여성의 경우 'Google', 'More bags', 'Gift Cards' 위주로 프로모션 진행
