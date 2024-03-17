@@ -11,7 +11,7 @@ https://dacon.io/competitions/official/236222/overview/description
 
 ## 고객 세분화 분석 결과
 #### 1. RFM 분석
-- RFM 분석을 위하여 백분위수를 기준으로 Recency, Frequency, Monetary를 각각 4개의 구간으로 구분
+>> RFM 분석을 위하여 백분위수를 기준으로 Recency, Frequency, Monetary를 각각 4개의 구간으로 구분
 - 각 구간별 zscore 값을 확인하며 각 구간 이상치 최소화
 - KMeans를 통해 "미관심 고객", "VIP 고객", "신규 고객", "수면 고객"으로 군집화 (값의 크기 "미관심 고객" >
 "VIP 고객" > "신규 고객" > "수면 고객" 순서)
