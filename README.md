@@ -8,3 +8,5 @@ RFM, Cohort, 지역별, 성별 고객 군집 분석 코드입니다.
 
 데이터 출처:
 https://dacon.io/competitions/official/236222/overview/description
+
+## 고객 세분화 분석 결과
