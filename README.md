@@ -47,13 +47,13 @@ https://dacon.io/competitions/official/236222/overview/description
 ## 솔루션 제안
 
 #### 1. 지역별 전략
-Ÿ 충성 고객 대상 프로모션 행사 지역 : "California", "Chicago", 'Washington DC'
-Ÿ 신규 고객 대상 프로모션 행사 지역 : "Washington DC", "New Jersy“
+충성 고객 대상 프로모션 행사 지역 : "California", "Chicago", 'Washington DC'
+신규 고객 대상 프로모션 행사 지역 : "Washington DC", "New Jersy“
 1. 지역별 고객이 많은 California, Chicago, Newyork에 전광판 등 오프라인 마케팅 집중하여 고객에게
 쇼핑몰을 노출시키는 전략 활용
 2. 뉴저지나 워싱턴의 경우 오프라인 마케팅 보다는 배너 등의 온라인 마케팅을 통해 고객 수를 늘리는
 것에 집중
-Ÿ 제품 카테고리
+제품 카테고리
 - Apparel, Nest-USA, Office, Nest에 대한 거래금액이 크므로 이를 고려할 필요 있음.
 ※ New Jersey 남성의 경우 다른 지역과 달리 Office에 대한 선호도가 Nest보다 높음.
 
