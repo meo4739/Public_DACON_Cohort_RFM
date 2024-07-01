@@ -81,3 +81,8 @@ VIP 군집의 성별에 따른 프로모션 전략
 - 지속적으로 'Apparels', 'Nest', 'Office'는 상위권임 -> 지속적인 프로모션 진행
 - 다만, 겨울에 'Nest' 수요가 높아지는 것을 봐서 겨울 시즌에 Nest 프로모션 진행 추진
 - 학기 시작 전인 7,8월에 'notebook & journal' 수요 증가 -> 신학기 프로모션 진행
+
+![image](https://github.com/meo4739/DACON_Cohort_RFM/assets/80037229/927ac6f9-359a-4a30-b60a-aaeb40248bfd)
+![image](https://github.com/meo4739/DACON_Cohort_RFM/assets/80037229/1a9bd67b-4b20-4b9d-9878-35de5a489d95)
+![image](https://github.com/meo4739/DACON_Cohort_RFM/assets/80037229/974014cc-30f6-4be0-91f3-ae1137fd861c)
+
